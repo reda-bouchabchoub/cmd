@@ -2,6 +2,7 @@ npx create-react-app review-cmd
 npm start
 npm i react-router-dom
 npm i redux react-redux
+npm install @reduxjs/toolkit react-redux
 ----------------
 composer create-project laravel/laravel review-cmd
 php artisan serve
